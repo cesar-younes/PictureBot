@@ -1,0 +1,485 @@
+[
+  {
+    "ImageId": "Analysis_1.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "5d927de4-740e-4170-b69d-8938e376210a",
+        "FaceRectangle": {
+          "Width": 304,
+          "Height": 304,
+          "Left": 747,
+          "Top": 333
+        },
+        "TopEmotion": "Neutral",
+        "Gender": "male",
+        "Age": 35.5
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a man swimming in a pool of water",
+      "Tags": [
+        "water",
+        "sport",
+        "swimming",
+        "pool",
+        "person",
+        "water sport",
+        "wave"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_2.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a black and white photo of a city",
+      "Tags": [
+        "sky",
+        "outdoor",
+        "city",
+        "white",
+        "skyscraper"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_3.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a subway train at a train station",
+      "Tags": [
+        "platform",
+        "station",
+        "indoor",
+        "subway",
+        "pulling",
+        "train"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_4.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a woman standing on a beach posing for the camera",
+      "Tags": [
+        "sky",
+        "outdoor",
+        "woman",
+        "person",
+        "beach",
+        "swimsuit",
+        "beautiful"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_5.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a drawing of a face",
+      "Tags": []
+    }
+  },
+  {
+    "ImageId": "Analysis_6.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "3d5f82cf-52a2-40b9-a328-10cfe76fd534",
+        "FaceRectangle": {
+          "Width": 234,
+          "Height": 234,
+          "Left": 295,
+          "Top": 398
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "male",
+        "Age": 42.6
+      },
+      {
+        "UniqueFaceId": "c94c5f38-f6a2-42ce-91a3-2fb2bf72ef2d",
+        "FaceRectangle": {
+          "Width": 224,
+          "Height": 224,
+          "Left": 1228,
+          "Top": 279
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "male",
+        "Age": 52.0
+      },
+      {
+        "UniqueFaceId": "bc547425-9730-4492-baa8-71591465ddcd",
+        "FaceRectangle": {
+          "Width": 211,
+          "Height": 211,
+          "Left": 44,
+          "Top": 382
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 59.9
+      },
+      {
+        "UniqueFaceId": "d1291574-aa34-48cb-9b36-3ae0a6e28ced",
+        "FaceRectangle": {
+          "Width": 200,
+          "Height": 200,
+          "Left": 966,
+          "Top": 417
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 32.6
+      },
+      {
+        "UniqueFaceId": "98ee215c-84c3-44b2-a905-5269c49a0e1e",
+        "FaceRectangle": {
+          "Width": 194,
+          "Height": 194,
+          "Left": 584,
+          "Top": 394
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 16.9
+      },
+      {
+        "UniqueFaceId": "5eeb6689-4ff7-495d-87c5-868c269fa47d",
+        "FaceRectangle": {
+          "Width": 170,
+          "Height": 170,
+          "Left": 807,
+          "Top": 407
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 6.6
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a group of people posing for a photo",
+      "Tags": [
+        "outdoor",
+        "person",
+        "posing",
+        "group",
+        "crowd"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_7.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a large body of water next to the ocean",
+      "Tags": [
+        "sky",
+        "water",
+        "outdoor",
+        "ocean",
+        "blue",
+        "nature",
+        "shore",
+        "sunny",
+        "day",
+        "clouds"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_8.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a man riding a skateboard down the side of a ramp",
+      "Tags": [
+        "skating",
+        "person",
+        "man",
+        "outdoor",
+        "riding",
+        "roller skating",
+        "sport",
+        "skateboarding",
+        "skateboard",
+        "male",
+        "cement"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_9.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a close up of a doughnut sitting on a table",
+      "Tags": [
+        "food",
+        "bread"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_10.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a view of a snow covered mountain",
+      "Tags": [
+        "snow",
+        "outdoor",
+        "sky",
+        "mountain",
+        "nature"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_11.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a large lawn in front of a house",
+      "Tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "house",
+        "building",
+        "green",
+        "lawn",
+        "residential"
+      ]
+    }
+  },
+  {
+    "ImageId": "Analysis_12.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a close up of a flower",
+      "Tags": [
+        "plant",
+        "flower",
+        "daisy"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_1.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a person flying through the air on a snow covered mountain",
+      "Tags": [
+        "sky",
+        "outdoor",
+        "nature",
+        "mountain",
+        "hill",
+        "high",
+        "distance"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_2.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "d961183e-027e-4686-b621-7f2fbd7f92ea",
+        "FaceRectangle": {
+          "Width": 213,
+          "Height": 213,
+          "Left": 327,
+          "Top": 313
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 23.3
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a woman sitting on a bed",
+      "Tags": [
+        "person",
+        "indoor"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_3.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a dog sitting in the grass",
+      "Tags": [
+        "grass",
+        "dog",
+        "outdoor",
+        "animal",
+        "mammal",
+        "tan"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_4.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "23a83feb-318f-448c-bfb2-1f5a1562288f",
+        "FaceRectangle": {
+          "Width": 175,
+          "Height": 175,
+          "Left": 498,
+          "Top": 358
+        },
+        "TopEmotion": "Neutral",
+        "Gender": "female",
+        "Age": 34.8
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a woman standing on a bridge over a body of water",
+      "Tags": [
+        "outdoor",
+        "water",
+        "person",
+        "building",
+        "bridge",
+        "river"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_5.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "7370dc99-08c9-46e3-bac6-73d8cd572051",
+        "FaceRectangle": {
+          "Width": 488,
+          "Height": 487,
+          "Left": 727,
+          "Top": 259
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "male",
+        "Age": 36.7
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a man wearing glasses and smiling at the camera",
+      "Tags": [
+        "person",
+        "man",
+        "wall",
+        "indoor",
+        "glasses",
+        "smiling",
+        "shirt",
+        "posing",
+        "male"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_6.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a brown and white dog sitting in the grass",
+      "Tags": [
+        "dog",
+        "grass",
+        "outdoor",
+        "white",
+        "animal",
+        "mammal"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_7.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "8fb9f988-d27b-4b17-9f40-d4fd3419041b",
+        "FaceRectangle": {
+          "Width": 218,
+          "Height": 218,
+          "Left": 970,
+          "Top": 225
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 23.7
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a woman posing for a picture",
+      "Tags": [
+        "person",
+        "outdoor"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_8.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "6e63980b-b4c5-4681-b5c0-9361f23f39ca",
+        "FaceRectangle": {
+          "Width": 316,
+          "Height": 316,
+          "Left": 555,
+          "Top": 280
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "female",
+        "Age": 24.2
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a woman smiling next to a body of water",
+      "Tags": [
+        "sky",
+        "person",
+        "outdoor",
+        "water",
+        "clothing",
+        "day"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_9.jpg",
+    "FaceInsights": [
+      {
+        "UniqueFaceId": "e6b4e3e6-5fb5-49ac-8914-d0c96bc56e98",
+        "FaceRectangle": {
+          "Width": 434,
+          "Height": 434,
+          "Left": 379,
+          "Top": 188
+        },
+        "TopEmotion": "Happiness",
+        "Gender": "male",
+        "Age": 35.7
+      }
+    ],
+    "VisionInsights": {
+      "Caption": "a man wearing glasses and smiling at the camera",
+      "Tags": [
+        "person",
+        "man",
+        "glasses",
+        "wearing",
+        "hat",
+        "jacket",
+        "close"
+      ]
+    }
+  },
+  {
+    "ImageId": "Thumbnail_10.jpg",
+    "FaceInsights": [],
+    "VisionInsights": {
+      "Caption": "a drawing of a face",
+      "Tags": [
+        "clipart",
+        "abstract"
+      ]
+    }
+  }
+]
