@@ -1,17 +1,17 @@
 ﻿{
   "CognitiveServicesKeys": {
-    "Face": "1319453e88fe40629aba469bd23e9122",
-    "Emotion": "ab9fb5cd23074c2c8ee235195921f83d",
-    "Vision": "3a62127546924962a79b152159b83f49",
-    "Translation": "7ff9bad6b73d425da464201b2e900c2c"
+    "Face": "",
+    "Emotion": "",
+    "Vision": "",
+    "Translation": ""
   },
   "AzureStorage": {
-    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=cognitiveanalyticsstore;AccountKey=VFFDsZrRNpXTxgSBOe0HcoA6SpIdrDnalSKA/xHMBt53Z/cEimZrYMQD2KmQtWnlXL29z7YbSOvXJA1dCNi7yA==;EndpointSuffix=core.windows.net",
+    "ConnectionString": "",
     "BlobContainer": "images"
   },
   "DocumentDB": {
-    "EndpointURI": "https://cognitiveanalytics.documents.azure.com:443/",
-    "Key": "arNO2FzFwyv7EZxPuDrkRcn3x5t5oHK3S20jL3C5cBv2Mvh3Js2phsD9oXtQ3iPlRAk0KckCU2A5WGisJftzrA==",
+    "EndpointURI": "",
+    "Key": "",
     "DatabaseName": "images",
     "CollectionName": "metadata"
   }

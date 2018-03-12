@@ -9,7 +9,7 @@ using Microsoft.Bot.Connector;
 
 namespace PictureBot.Dialogs
 {
-    [LuisModel("b6a38335-a900-4f93-b75e-b0769ddc5c26", "ff23a12c88c24eddb0efb5eedd8e56f5")]
+    [LuisModel("", "")]
     [Serializable]
     public class RootDialog : DispatchDialog
     {

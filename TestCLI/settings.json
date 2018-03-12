@@ -10,7 +10,7 @@
     "BlobContainer": "images"
   },
   "DocumentDB": {
-    "EndpointURI": "https://cognitiveanalytics.documents.azure.com:443/",
+    "EndpointURI": "",
     "Key": "",
     "DatabaseName": "images",
     "CollectionName": "metadata"
